@@ -48,5 +48,5 @@
 
 ## Commit and push   //inside the terminal in the projects folder use the commands below in this order
 1. git add -A
-2. git commit -m "Project 7"
+2. git commit -m "Project 8"
 3. git push -u origin main 
